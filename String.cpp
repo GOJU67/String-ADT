@@ -1156,20 +1156,3 @@ int String::findDelimiterIndex(const String& delim) const
 	}
 	return -1;
 }
-
-
-
-
-
-
-
-
-
-//bool String::operator ==(const String& s2) const
-//{
-//	if (compare(s2) == 0)
-//	{
-//		return 1;
-//	}
-//	return 0;
-//}
